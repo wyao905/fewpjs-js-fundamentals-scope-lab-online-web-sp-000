@@ -1,4 +1,5 @@
 let animal = "";
+let n
 
 function myAnimal() {
   return animal;
